@@ -1,5 +1,7 @@
 # Личный проект «Кэт энерджи»
 
+* Главная страница [index.html](index.html) 
+
 * Студент: [Линар Агадуллин](https://up.htmlacademy.ru/adaptive/25/user/905885).
 * Наставник: [Артем Макаров](https://htmlacademy.ru/profile/deepsick).
 
